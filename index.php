@@ -13,7 +13,7 @@
   <div class="container nav-wrap">
     <a class="brand" href="#home">
       <div class="logo">
-        <img src="images/Awgrfu logo.png" alt="شعار الوكالة" width="90" height="90">
+        <img src="images/new logo.png" alt="شعار الوكالة" width="90" height="90">
       </div>
       <div >
         <strong>الوكالة العقارية</strong>
