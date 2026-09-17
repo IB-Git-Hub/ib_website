@@ -30,6 +30,8 @@
       <a href="#projects">المشاريع</a>
       <a href="#news">الإعلانات</a>
       <a href="#contact">اتصل بنا</a>
+      <a href="#contact">bla bla</a>
+      <a href="#contact">bla</a>
     </nav>
   </div>
 </header>
